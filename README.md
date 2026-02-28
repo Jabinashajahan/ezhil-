@@ -14,3 +14,25 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+Project link :https://ezhil-ty5f.vercel.app
+
+🌐 Firebase Hosting Link:
+https://console.firebase.google.com/u/0/project/ezhil-c7dbc/
+🎥 Demo Video
+▶️ Watch Demo:
+(https://youtu.be/WQrk3Py1tR4)
+
+📊 Project Presentation
+📥 Download PPT: https://github.com/Divya-k24/ezhil/blob/main/Presentation%20-%20Build%20Ezhil.pptx
+
+Portfolio link of team members
+https://jabinashajahan.github.io/jabina-portfolio/ https://jabinashajahan.github.io/divis-portfolio/ https://jabinashajahan.github.io/Abinaya-portfolio/ https://jabinashajahan.github.io/Irene-portfolio/ https://jabinashajahan.github.io/Azar-portfolio/
+
+Tech Stack
+React.js
+Firebase
+Google Cloud
+Gemini AI Code Assist
+Anti-Gravity UI Concept
